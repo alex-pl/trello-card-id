@@ -4,7 +4,7 @@
 	       "id": "trello-card-id@alexander-ploner.com"
         }
     },
-    "maniest_version": 2,
+    "manifest_version": 2,
     "name": "Trello Card ID",
     "description": "Shows well formatted Trello card IDs for use in commits and for other quick references. Copies ID by clicking on it.",
     "author": "Alexander Ploner",
