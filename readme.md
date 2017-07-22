@@ -5,8 +5,9 @@
 Shows well formatted Trello card IDs for use in commits and for other quick references. Copies ID by clicking on it.
 
 
-## Add-on Downloads
-* In progress
+## Installation
+* [Firefox Desktop](https://addons.mozilla.org/firefox/addon/trello-card-id/)
+* [Firefox for Android](https://addons.mozilla.org/android/addon/trello-card-id/)
 
 
 ## Developer Notes
