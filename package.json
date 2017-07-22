@@ -1,0 +1,33 @@
+{
+  "id": "trello-card-id@alexander-ploner.com",
+  "title": "Trello Card ID",
+  "name": "trello-card-id",
+  "version": "1.0.0",
+  "description": "Shows well formatted Trello card IDs for use in commits and for other quick references. Copies ID by clicking on it.",
+  "author": "Alexander Ploner",
+  "homepage": "https://github.com/alex-pl/trello-card-id",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Warning: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-pl/trello-card-id.git"
+  },
+  "keywords": [
+    "trello",
+    "card",
+    "id",
+    "number",
+    "identifier"
+  ],
+  "bugs": {
+    "url": "https://github.com/alex-pl/trello-card-id/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-zip": "^3.2.0"
+  }
+}

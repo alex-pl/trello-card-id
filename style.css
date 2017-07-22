@@ -1,0 +1,10 @@
+.card-short-id.hide {
+	display: inline !important;
+	font-weight: bold;
+}
+.card-short-id::after {
+	content: ' ';
+}
+.card-short-id:hover {
+	opacity: .5;
+}

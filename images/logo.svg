@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="fau-auto-login.svg"
+   inkscape:export-filename="/Users/alexanderploner/Development/addons/trello-card-numbers/images/icon48.png"
+   inkscape:export-xdpi="14.443331"
+   inkscape:export-ydpi="14.443331">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="356.56848"
+     inkscape:cy="540.89153"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1091"
+     inkscape:window-x="1165"
+     inkscape:window-y="1081"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#e3e3e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4136"
+       width="299.10001"
+       height="299.10001"
+       x="222.49724"
+       y="376.6311"
+       ry="27.282827"
+       rx="27.282827"
+       inkscape:export-xdpi="19.257774"
+       inkscape:export-ydpi="19.257774" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4138-7"
+       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(88.392212,338.55855)"
+       inkscape:export-xdpi="19.257774"
+       inkscape:export-ydpi="19.257774"><flowRegion
+         id="flowRegion4140-4"><rect
+           id="rect4142-5"
+           width="263.92679"
+           height="75.696854"
+           x="154.28572"
+           y="232.3622"
+           style="font-size:16.25px;text-align:center;text-anchor:middle;fill:#808080" /></flowRegion><flowPara
+         id="flowPara4144-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1">#ID</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#d40000;fill-opacity:0;fill-rule:nonzero;stroke:none;stroke-width:0.89999998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect4146"
+       width="290.00003"
+       height="184.28569"
+       x="227.04723"
+       y="434.03827"
+       rx="0"
+       ry="0"
+       inkscape:export-xdpi="195.51724"
+       inkscape:export-ydpi="195.51724" />
+  </g>
+</svg>

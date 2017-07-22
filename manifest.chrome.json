@@ -1,0 +1,20 @@
+{
+    "manifest_version": 2,
+    "name": "Trello Card ID",
+    "description": "Shows well formatted Trello card IDs for use in commits and for other quick references. Copies ID by clicking on it.",
+    "author": "Alexander Ploner",
+    "homepage_url": "https://github.com/alex-pl/trello-card-id",
+    "version": "1.0.0",
+    "icons": {
+        "48": "images/icon48.png",
+        "128": "images/icon.png"
+    },
+
+    "content_scripts": [
+        {
+            "matches": ["https://trello.com/b/*"],
+            "css": ["style.css"],
+            "js": ["script.js"]
+        }
+    ]
+}
