@@ -10,9 +10,9 @@ Shows well formatted Trello card IDs for use in commits and for other quick refe
 * [Firefox for Android](https://addons.mozilla.org/android/addon/trello-card-id/)
 
 
-## Developer Notes
+## Development
 
-### Set up
+### Set up Environment
 
 1.  Install a current version of [NodeJS](https://nodejs.org/en/download/).
 2.  Install Gulp
