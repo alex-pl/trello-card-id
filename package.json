@@ -2,7 +2,7 @@
   "id": "trello-card-id@alexander-ploner.com",
   "title": "Trello Card ID",
   "name": "trello-card-id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shows well formatted Trello card IDs for use in commits and for other quick references. Copies ID by clicking on it.",
   "author": "Alexander Ploner",
   "homepage": "https://github.com/alex-pl/trello-card-id",
