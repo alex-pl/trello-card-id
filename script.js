@@ -9,6 +9,7 @@ document.addEventListener('click', (e) => {
 
 	if (isCardShortId) {
 		e.stopImmediatePropagation();
+		e.preventDefault();
 
 		input.value = elem.textContent.replace('Nr. ', '#');
 		input.select();
